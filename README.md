@@ -1,4 +1,8 @@
-# slider_animation
+# Flutter Carousel Slider Animation
+
+
+![Flutter Login Ui](https://user-images.githubusercontent.com/87581799/134906028-e6b21f4e-e7f9-4b78-8b48-b66339bc828e.png)
+
 
 A new Flutter project.
 
